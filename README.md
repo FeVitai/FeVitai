@@ -6,7 +6,7 @@ Nice to meet you!
 
 You can feel free to help me with my projects or even ask me for help!
 
-- 💻 I’m currently working on Java/Spring-Boot
+- 💻 I’m currently working with Java/Spring-Boot
 - 🤓 I’m currently learning Java/Spring-Boot and I'm also learning Front-End with React and Mobile Development with Flutter.
 
 <div align="center">
