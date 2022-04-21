@@ -1,15 +1,13 @@
 ### Hey you!
 
-I'm Felipe Vitai Afanasiev, a Brazilian Dev who speaks Portuguese, English and I'm also learning French!
+I'm Felipe Vitai Afanasiev!
 
 Nice to meet you!
 
-Feel free to help me with my projects or even ask me for help!
+You can feel free to help me with my projects or even ask me for help!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Java/Spring-Boot
-- 🌱 I’m currently learning Java/Spring-Boot and I'm also learning Front-End with React and Mobile Development with Flutter.
+- 💻 I’m currently working on Java/Spring-Boot
+- 🤓 I’m currently learning Java/Spring-Boot and I'm also learning Front-End with React and Mobile Development with Flutter.
 
 <div align="center">
   <a href="https://github.com/fevitai">
